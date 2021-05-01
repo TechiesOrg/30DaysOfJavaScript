@@ -4,15 +4,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Web Development Tips 101
-email: support@webtips101.com
-author: webtips101
+title: 30 Days of JavaScript
+email: support@30daysofjavascript.com
+author: John
 copyright: Copyright © 2019-2021
 description: >- # this means to ignore newlines until "baseurl:"
-  Tips for learning web development.
+  Learn JavaScript in 30 days!
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://webtips101.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://30daysofjavascript.com" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: "" # the favicon for your site
 permalink: /:title/
 
@@ -104,8 +104,8 @@ header_pages:
 # Page default value
 defaults:
    home:
-     heading: "Web development tips"
-     subheading: "Learn web development with our quick tips!"
+     heading: "30 Days of JavaScript"
+     subheading: "Learn JavaScript in 30 days!"
      banner: "Your image url"
 
 # Excerpt size setting
