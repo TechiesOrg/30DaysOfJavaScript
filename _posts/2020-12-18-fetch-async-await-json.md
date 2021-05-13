@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Use JavaScript Fetch with async/await: Get JSON Data
+title: "Use JavaScript Fetch with async/await: Get JSON Data"
 subtitle:
 categories: javascript
 tags: [javascript]
