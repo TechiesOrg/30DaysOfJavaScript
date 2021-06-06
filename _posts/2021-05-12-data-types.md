@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 30 Days Of JavaScript: Data Types
+title: "30 Days Of JavaScript: Data Types"
 subtitle: Learn about data types
 categories: javascript
 tags: [javascript
